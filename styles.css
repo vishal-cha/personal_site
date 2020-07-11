@@ -1,0 +1,155 @@
+body {
+  margin: 0;
+  font-family: 'Merriweather', Source Serif Pro, serif;
+}
+
+.head {
+  border-radius: 100%;
+  position: relative;
+  left: 4%;
+  bottom: 5%;
+}
+
+/* Add a black background color to the top navigation */
+.topnav {
+  background-color: #ceebd0;
+  color: black;
+  overflow: hidden;
+  height: 670px;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+  background-color: #ceebd0;
+  float: right;
+  color: #035715;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.nameit {
+  font-family: 'Open Sans', sans-serif;
+}
+
+.top {
+  width: 400px;
+  color: #035715;
+  font-family: 'Dancing Script', cursive;
+  position: relative;
+  top: 80px;
+  left: 500px;
+  right: 200px;
+}
+
+.topnav a:hover {
+  color: black;
+}
+
+.lands {
+  width: 79%;
+  margin-top: 100px;
+}
+
+.land {
+  width: 79%;
+}
+
+.cloud {
+  position: relative;
+  bottom: 400px;
+}
+
+.Second_cloud {
+  position: relative;
+  bottom: 700px;
+  width: 260px;
+  left: 78%;
+}
+
+/*************************************middle***********************************/
+.middle {
+  text-align: center;
+  word-spacing: 3px;
+  color: #3D3D3D;
+}
+
+.para {
+  margin-top: 4%;
+  color: #3D3D3D;
+}
+
+.main {
+  border-radius: 100%;
+
+}
+.lastpage{
+  font-size: 13px;
+}
+.main12{
+  border-radius: 100%;
+  float: left;
+  margin-right: 40px;
+}
+.hr {
+  margin-top: 5%;
+  margin-bottom: 4%;
+  width: 3%;
+  border-color: #3D3D3D;
+  border-style: dotted none none;
+  border-top-width: 4px;
+}
+
+.middle-middle {
+  display: inline-block;
+}
+
+.last {
+  text-align: center;
+  background-color: #ceebd0;
+  padding: 0;
+  height: 80px;
+  text-decoration: none;
+}
+.lastme{
+  margin: 10px 20px;
+  text-decoration: none;
+  color: #32a89e;
+}
+.lastme:hover{
+  color: #f0f5f4;
+}
+.texttime{
+  text-decoration: none;
+  color: #32a89e;
+}
+.texttime:hover{
+  color: #a3e3d6;
+}
+.lasthr {
+  margin-top: 50px;
+  margin-bottom: 0;
+}
+.main123{
+  border-radius: 100%;
+  float: right;
+  margin-left: 40px;
+}
+.image-1{
+  margin-bottom: 100px;
+}
+.image-2{
+margin-bottom: 70px;
+}
+.hr-2{
+  margin-top: 5%;
+  margin-bottom: 10%;
+  width: 6%;
+  border-color: #3D3D3D;
+  border-style: dotted none none;
+  border-top-width: 4px;
+}
+.bottom-1{
+  margin-bottom: 50px;
+}
